@@ -40,9 +40,17 @@ int main()
 	string word;
 		getline(cin, cmd);
 		if (cmd == "kill")
+                {
 			break;
-		if (cmd == "search")
+                 }
+	        else if (cmd == "search")
+               {
 			search();
+                }
+                 else
+                {
+                   cout<<"default value";
+                  }
 	}
 	return 0;
 }
