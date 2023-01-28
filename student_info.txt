@@ -1,7 +1,7 @@
 ID	 NAME                    	ROLL NO	ADDRESS
-205	Mr.Khan Arshad Aslam		1		308, Negra Arroyo Lane, Albuquerque, New Mexico
-206    Mr.Ansari Rehan Irfan   	2		309, Negra Arroyo Lane, Albuquerque, New Mexico
-207	Mr.Shaikh Shehzad Jameel	3		310, Negra Arroyo Lane, Albuquerque, New Mexico
+205    Mr.Khan Arshad Aslam		1		308, Negra Arroyo Lane, Albuquerque, New Mexico
+206    Mr.Ansari Rehan Irfan      	2		309, Negra Arroyo Lane, Albuquerque, New Mexico
+207    Mr.Shaikh Shehzad Jameel	        3		310, Negra Arroyo Lane, Albuquerque, New Mexico
 208	
 209
 210
